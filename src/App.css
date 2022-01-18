@@ -1,0 +1,52 @@
+.container{
+  margin-top: 30px;
+}
+
+.header {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.bio {
+  text-align: center;
+  color: gray;
+  margin-top: 16px;
+}
+
+.input-box{
+  height: 120px;
+  margin: 20px 20px 5px 70px;
+  padding: 4px;
+  width: 400px;
+}
+
+.waveButton {
+  cursor: pointer;
+  border: 2px solid black;
+  background-color: #ffffff;
+  width: 400px;
+  text-align: center;
+  border-radius: 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 5px 20px 10px 70px;
+  display:block;
+  padding: 4px;
+
+}
+
+.wave-log{
+    background-color: #ffffff;
+    margin: 16px;
+    padding: 10px;
+    border: solid #c5b6f1;
+}
+
+.wave-log-heading{
+  font-weight: bold;
+}
+
+.wave-log-data{
+  font-size: 14px;
+}
